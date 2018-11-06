@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import com.sample.springboot.dao.CountryDao;
 import com.sample.springboot.dao.model.Country;
 
-
 @Controller
 public class MyController {
 	
